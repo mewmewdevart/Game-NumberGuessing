@@ -43,4 +43,10 @@ Run the file, and play the game:
 ```bash
 $ cd ./game_numberGuessing
 ```
+## 🎮 Screen of Game
+
+<p align="center">
+  <img src="src/gameplayScreen.png">
+</p>
+
 <p align="center"> Developed with love 💜 by Larissa Cristina Benedito (Mewmew/Larcrist). </p>
